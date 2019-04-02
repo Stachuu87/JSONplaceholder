@@ -1,0 +1,83 @@
+{
+  "plh": {
+    "season": "2017/2018",
+    "teams": [{
+        "name": "GKS Tychy",
+        "matches": 38,
+        "pts": 97,
+        "wins": 29,
+        "loses": 1
+      },
+      {
+        "name": "GKS Katowice",
+        "matches": 38,
+        "pts": 82,
+        "wins": 23,
+        "loses": 6
+      },
+      {
+        "name": "Comarh Cracovia",
+        "matches": 38,
+        "pts": 75,
+        "wins": 22,
+        "loses": 10
+      },
+      {
+        "name": "TatrySki Podhale",
+        "matches": 38,
+        "pts": 70,
+        "wins": 22,
+        "loses": 13
+      },
+      {
+        "name": "JKH GKS Jastrzębie",
+        "matches": 38,
+        "pts": 67,
+        "wins": 18,
+        "loses": 12
+      },
+      {
+        "name": "KS Unia Oświęcim",
+        "matches": 38,
+        "pts": 54,
+        "wins": 14,
+        "loses": 16
+      },
+      {
+        "name": "PGE Orlik Opole",
+        "matches": 38,
+        "pts": 53,
+        "wins": 13,
+        "loses": 17
+      },
+      {
+        "name": "MH Automatyka Gdańsk",
+        "matches": 38,
+        "pts": 47,
+        "wins": 14,
+        "loses": 21
+      },
+      {
+        "name": "TMH Polonia Bytom",
+        "matches": 38,
+        "pts": 35,
+        "wins": 9,
+        "loses": 23
+      },
+      {
+        "name": "Anteo Naprzód Janów",
+        "matches": 38,
+        "pts": 20,
+        "wins": 5,
+        "loses": 30
+      },
+      {
+        "name": "SMS PZHL",
+        "matches": 20,
+        "pts": 0,
+        "wins": 0,
+        "loses": 20
+      }
+    ]
+  }
+}
